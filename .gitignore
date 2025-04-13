@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+!gradlew
+!gradlew.bat
+
+# IntelliJ
+.idea/
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.log
+
+# Binaries
+/bin/
