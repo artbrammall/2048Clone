@@ -15,12 +15,6 @@ import java.util.Random;
  * App.java – Main game logic and rendering for a 2048 clone.
  * Handles setup, drawing loop, user input, and overall board state.
  */
-
-/*  - Understand code
-    - Add comments explaining code
-    - Let new spawned tile spawn slower visually
-    - Upload build.gradle and src to ED, press Mark
- */
 public class App extends PApplet {
 
     // GAME SETTINGS

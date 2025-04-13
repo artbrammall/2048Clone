@@ -1,12 +1,11 @@
-/**
- * Cell.java – Represents one tile on the board.
- * Stores value, position, animation state, and handles drawing/merging.
- */
-
 package TwentyFortyEight;
 
 import processing.core.PImage;
 
+/**
+ * Cell.java – Represents one tile on the board.
+ * Stores value, position, animation state, and handles drawing/merging.
+ */
 public class Cell {
 
     // GRID COORDINATES
